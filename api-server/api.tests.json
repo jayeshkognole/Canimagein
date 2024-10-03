@@ -1,0 +1,89 @@
+{
+	"info": {
+		"_postman_id": "f47265d7-48a1-4a0c-b5b1-55b573bc293c",
+		"name": "CanImageIN",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28934796"
+	},
+	"item": [
+		{
+			"name": "get_patient_ehr_history",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://{{host}}:{{port}}{{url_prefix}}/ehr/get_patient_ehr_history?patient_id=1",
+					"protocol": "http",
+					"host": [
+						"{{host}}"
+					],
+					"port": "{{port}}{{url_prefix}}",
+					"path": [
+						"ehr",
+						"get_patient_ehr_history"
+					],
+					"query": [
+						{
+							"key": "patient_id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "cxr search",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://{{host}}:{{port}}{{url_prefix}}/cxr/search?image_name=00000103_010",
+					"protocol": "http",
+					"host": [
+						"{{host}}"
+					],
+					"port": "{{port}}{{url_prefix}}",
+					"path": [
+						"cxr",
+						"search"
+					],
+					"query": [
+						{
+							"key": "image_name",
+							"value": "00000103_010"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get image",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5001/canimagein/cxr/get_image?image_name=00000103_010.png",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"canimagein",
+						"cxr",
+						"get_image"
+					],
+					"query": [
+						{
+							"key": "image_name",
+							"value": "00000103_010.png"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

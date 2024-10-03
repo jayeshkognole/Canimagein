@@ -1,0 +1,59 @@
+PERSISTENT SYSTEMS LTD. SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE. BY USING THIS SOFTWARE, YOU (INDIVIDUAL OR ENTITY) AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT USE THIS SOFTWARE.
+
+1. Grant of License:
+
+Persistent Systems Ltd. ("Persistent") grants you a non-exclusive, non-transferable, and limited license to use the accompanying software and documentation ("Software") subject to the terms and conditions of this Agreement.  Persistent retains all intellectual property rights, including copyright, patent, and trade secret rights, in the Software.
+
+2. Permitted Use:
+
+You may:
+
+* Install and use the Software for the evaulation purposes only.
+
+
+You may not:
+
+* Modify, adapt, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, except to the extent permitted by applicable law.
+* Remove or alter any copyright, trademark, or other proprietary notices contained in the Software.
+* Distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.
+* Use the Software to develop a competing product or service.
+* Use the Software in any manner that violates any applicable laws or regulations.
+
+
+3. Ownership:
+
+The Software is neither licensed nor sold. Title, ownership rights, and intellectual property rights in and to the Software remain solely with Persistent.  This License Agreement grants you only a limited right to use the Software as specified herein.
+
+4. Term and Termination:
+
+This License Agreement is effective until terminated.  Persistent may terminate this Agreement immediately upon your breach of any of its terms. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession.
+
+5. Disclaimer of Warranty:
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. PERSISTENT DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR THAT ITS OPERATION WILL BE UNINTERRUPTED.
+
+6. Limitation of Liability:
+
+IN NO EVENT SHALL PERSISTENT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, DATA, OR USE, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE, EVEN IF PERSISTENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Governing Law:
+
+This License Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction - e.g., the State of Maharashtra, India], without regard to its conflict of laws principles.
+
+
+8. Entire Agreement:
+
+This License Agreement constitutes the entire agreement between you and Persistent concerning the Software and supersedes all prior or contemporaneous communications and proposals, whether oral or written.
+
+9. Contact Information:
+
+For any questions regarding this License Agreement, please contact:
+
+Persistent Systems Ltd.
+
+
+
+
+Copyright Â© 2024 Persistent Systems Ltd. All rights reserved.

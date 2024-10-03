@@ -1,0 +1,9 @@
+peewee
+Flask
+flask-cors
+pyyaml
+chromadb
+tensorflow
+google-cloud
+google-generativeai
+pillow

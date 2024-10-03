@@ -1,0 +1,20 @@
+# Ignore node_modules folder
+node_modules
+
+# Ignore build artifacts
+# build
+dist
+*.log
+
+# Ignore development files
+.DS_Store
+*.log
+*.lock
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Ignore version control files
+.git
+.gitignore
